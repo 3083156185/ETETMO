@@ -15,3 +15,12 @@
 - **`1/07/2025`**: We have published some visualization experiments static and dynamic results.
 
 - **`11/02/2024`**: We submitted the paper. Code and pre-trained model are coming soon.
+
+## :rocket: Introduction
+This project contains the official PyTorch implementation, pre-trained models, fine-tuning code, and detect demo for ETETMO.
+
+* An end-to-end intelligent visual surveillance framework,ETETMO, is proposed for robust tracking of moving objects on the airport surface.
+
+* ETETMO replaces the traditional manually designed ID association methods with a learnable ID classification strategy.
+
+* ETETMO surpasses state-of-theart methods across five key evaluation metrics, achieving a 7.6% improvement in HOTA and an 11% improvement in IDF1.
