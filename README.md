@@ -24,3 +24,8 @@ This project contains the official PyTorch implementation, pre-trained models, f
 * ETETMO replaces the traditional manually designed ID association methods with a learnable ID classification strategy.
 
 * ETETMO surpasses state-of-the-art methods across five key evaluation metrics, achieving a 7.6% improvement in HOTA and an 11% improvement in IDF1.
+
+## :page_facing_up: Overview
+
+<img src="result/image2.jpg" width="800">
+
