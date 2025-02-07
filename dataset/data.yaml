@@ -1,0 +1,11 @@
+# dataset path
+path: E:\\BaiduNetdiskDownload\\RTDETR-20240825\\RTDETR-main
+train: ./dataset/images/train
+val: ./dataset/images/val
+test: ./dataset/images/test
+
+# number of classes
+nc: 6
+
+# class names
+names: [ 'airplane', 'aircraft bridge','plane refueller', 'tractor', 'baggage truck', 'belt loader' ]
