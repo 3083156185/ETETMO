@@ -30,7 +30,7 @@ This project contains the official PyTorch implementation, pre-trained models, f
 <img src="result/image2.jpg" width="800">
 
 ## :sparkles: Model Zoo
-* [Weight CKPT](https://huggingface.co/hao9610/OV-DINO/resolve/main/ovdino_swint_ogc-coco50.2_lvismv40.1_lvis32.9.pth) 
+* [Weight CKPT](https://huggingface.co/lingxiaodu/model/blob/main/rtdetr-r34.pt) 
 ## :checkered_flag: Getting Started
 ### 1. DATASET Structure
 ```
