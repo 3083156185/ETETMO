@@ -6,4 +6,9 @@
 <sup>1</sup> Nanjing University of Aeronautics and Astronautics, <sup>2</sup>Chinese Academy of Civil Aviation Science and Technology
   
 <sup>:email:</sup> corresponding author.
+## :fire: Updates
 
+
+- **`1/07/2025`**: We release the pre-trained models and the detect code.
+
+- **`11/02/2024`**: We submitted the paper. Code and pre-trained model are coming soon.
