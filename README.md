@@ -33,6 +33,7 @@ This project contains the official PyTorch implementation, pre-trained models, f
 * [Weight CKPT](https://huggingface.co/hao9610/OV-DINO/resolve/main/ovdino_swint_ogc-coco50.2_lvismv40.1_lvis32.9.pth) 
 ## :checkered_flag: Getting Started
 ### 1. DATASET Structure
+```
 ETETMO
 ├── dataset
 │   ├── ASV-T2024
@@ -44,6 +45,7 @@ ETETMO
 │   │   ├── annotations
 │   │   ├── train2017
 │   │   └── val2017
+```
 ### 2. Installation
 ...
 
