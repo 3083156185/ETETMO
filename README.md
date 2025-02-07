@@ -47,7 +47,13 @@ ETETMO
 │   │   └── val2017
 ```
 ### 2. Installation
-...
+```
+Compile and install the required packages
+pip install timm==0.9.8 thop efficientnet_pytorch==0.7.1 einops grad-cam==1.4.8 dill==0.3.6 albumentations==1.3.1 pytorch_wavelets==1.3.0 tidecv PyWavelets -i https://pypi.tuna.tsinghua.edu.cn/simple
+    pip install -U openmim
+    mim install mmengine
+    mim install "mmcv>=2.0.0"
+```
 ## :computer: Visualization of experimental results
 
 <img src="result/1.gif" width="800">
