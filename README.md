@@ -10,7 +10,8 @@
 
 ## :fire: Updates
 
-
 - **`1/07/2025`**: We release the pre-trained models and the detect code.
+
+- **`1/07/2025`**: We have published some visualization experiments static and dynamic results.
 
 - **`11/02/2024`**: We submitted the paper. Code and pre-trained model are coming soon.
