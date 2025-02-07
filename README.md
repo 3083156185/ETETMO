@@ -32,3 +32,21 @@ This project contains the official PyTorch implementation, pre-trained models, f
 ## :sparkles: Model Zoo
 * [Weight CKPT](https://huggingface.co/hao9610/OV-DINO/resolve/main/ovdino_swint_ogc-coco50.2_lvismv40.1_lvis32.9.pth) 
 ## :checkered_flag: Getting Started
+### 1. DATASET Structure
+ETETMO
+├── dataset
+│   ├── ASV-T2024
+│   │   ├── annotations
+│   │   ├── train
+│   │   ├── val
+│   │   └── test
+│   ├── coco
+│   │   ├── annotations
+│   │   ├── train2017
+│   │   └── val2017
+### 2. Installation
+...
+
+## :blush: Acknowledge
+This project has referenced some excellent open-sourced repos ([Detectron2](https://github.com/facebookresearch/detectron2), [detrex](https://github.com/IDEA-Research/detrex), [GLIP](https://github.com/microsoft/GLIP), [G-DINO](https://github.com/IDEA-Research/GroundingDINO), [YOLO-World](https://github.com/AILab-CVC/YOLO-World)). Thanks for their wonderful works and contributions to the community.
+
