@@ -55,5 +55,5 @@ ETETMO
 <img src="result/image7.png" width="800">
 
 ## :blush: Acknowledge
-This project has referenced some excellent open-sourced repos ([Detectron2](https://github.com/facebookresearch/detectron2), [detrex](https://github.com/IDEA-Research/detrex), [RT-DETR](https://github.com/lyuwenyu/RT-DETR)). Thanks for their wonderful works and contributions to the community.
+This project has referenced some excellent open-sourced repos ([Detectron2](https://github.com/facebookresearch/detectron2), [detrex](https://github.com/IDEA-Research/detrex), [RT-DETR](https://github.com/lyuwenyu/RT-DETR),[ultralytics]([https://github.com/lyuwenyu/RT-DETR](https://github.com/ultralytics/ultralytics))). Thanks for their wonderful works and contributions to the community.
 
