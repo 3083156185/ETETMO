@@ -60,13 +60,13 @@ pip install timm==0.9.8 thop efficientnet_pytorch==0.7.1 einops grad-cam==1.4.8 
 
 <img src="result/image7.png" width="800">
 
-## :🎥 Video Demonstration
+## 🎥 Video Demonstration
 
-The following video demonstrates the dynamic performance of our proposed method under real-world conditions. It showcases the robustness and generalization of the model in handling various scenarios.
+The following video demonstrates the dynamic performance of our proposed method under real-world conditions. It showcases the effectiveness of our multi-object tracking framework in cross-camera scenarios, where the system switches between three cameras with different fields of view while maintaining consistent target identities across views.
 
-<video src="result/MyVideo_1.mp4" width="800" controls></video>
+<video src="result/demo.mp4" width="800" controls></video>
 
-> 📌 If the video does not play properly in your browser, you can [download it here](result/MyVideo_1.mp4) or watch it via an external player.
+> 📌 If the video does not play properly in your browser, you can [download it here](result/demo.mp4) or watch it via an external player.
 
 ## :blush: Acknowledge
 This project has referenced some excellent open-sourced repos ([Detectron2](https://github.com/facebookresearch/detectron2), [detrex](https://github.com/IDEA-Research/detrex), [RT-DETR](https://github.com/lyuwenyu/RT-DETR), [ultralytics](https://github.com/ultralytics/ultralytics)). Thanks for their wonderful works and contributions to the community.
