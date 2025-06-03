@@ -63,7 +63,7 @@ pip install timm==0.9.8 thop efficientnet_pytorch==0.7.1 einops grad-cam==1.4.8 
 ## 🎥 Video Demonstration
 
 The following video demonstrates the dynamic performance of our proposed method under real-world conditions. It showcases the effectiveness of our multi-object tracking framework in cross-camera scenarios, where the system switches between three cameras with different fields of view while maintaining consistent target identities across views.
-
+<img src="result/demo(1).gif" width="800">
 <video src="result/demo.mp4" width="800" controls></video>
 
 > 📌 If the video does not play properly in your browser, you can [download it here](result/demo.mp4) or watch it via an external player.
