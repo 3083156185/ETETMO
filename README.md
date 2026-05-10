@@ -27,7 +27,7 @@ This project contains the official PyTorch implementation, pre-trained models, f
 
 ## :page_facing_up: Overview
 
-<img src="result/image2.jpg" width="800">
+<img src="result/image2.png" width="800">
 
 ## :sparkles: Model Zoo
 * [Weight CKPT](https://huggingface.co/lingxiaodu/model/blob/main/rtdetr-r34.pt) 
