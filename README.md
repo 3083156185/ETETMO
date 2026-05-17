@@ -8,9 +8,7 @@ Multi-Object Tracking Framework: Toward Intelligent Visual Surveillance of Airpo
 ## :fire: Updates
 
 - **`18/05/2026`**: We submitted the paper. Code and pre-trained model are coming soon.
-- 
 - **`2/07/2025`**: We release the pre-trained models and the detect code.
-
 - **`1/07/2025`**: We have published some visualization experiments static and dynamic results.
 
 ## :rocket: Introduction
